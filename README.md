@@ -1,5 +1,5 @@
 # Basic-Calculator
-Whithin the scope of the INF2 (Programming level 2) course @ Université de Technologie de Compiègne, I had to program a simple calculator in Python language, using Tkinter. Here's my work !
+Whithin the scope of the INF2 (Programming level 2) course @ Université de Technologie de Compiègne, I had to program a simple calculator in Python language, using Tkinter.
 
 The goal of this project/practical work is to create a basic calculator with Python and Tkinter.
 
